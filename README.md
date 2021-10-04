@@ -75,7 +75,7 @@ Questions to consider:
 ```
 ├── P2_Project.ipynb
 ├── README.md
-├── fake_data
+├── data
 ├── images
 └── tools (if you make any .py files)
     ├── __init__.py
